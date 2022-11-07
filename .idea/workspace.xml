@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90ac26cb-4abb-4a58-9e3c-1588a9516f28" name="Changes" comment="JSHW2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="90ac26cb-4abb-4a58-9e3c-1588a9516f28" name="Changes" comment="JSHW2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,8 +47,16 @@
       <option name="presentableId" value="Default" />
       <updated>1667401557244</updated>
       <workItem from="1667401558601" duration="6032000" />
-      <workItem from="1667758293945" duration="776000" />
+      <workItem from="1667758293945" duration="1052000" />
     </task>
+    <task id="LOCAL-00001" summary="JSHW2">
+      <created>1667759090318</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1667759090318</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="JSHW2" />
+    <option name="LAST_COMMIT_MESSAGE" value="JSHW2" />
   </component>
 </project>
