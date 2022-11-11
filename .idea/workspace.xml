@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90ac26cb-4abb-4a58-9e3c-1588a9516f28" name="Changes" comment="JSHW2" />
+    <list default="true" id="90ac26cb-4abb-4a58-9e3c-1588a9516f28" name="Changes" comment="JSHW2">
+      <change afterPath="$PROJECT_DIR$/Lesson3HW/Lesson3HW.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson3HW/mainjs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,15 +33,15 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ruden/JS_lessons"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ruden/JS_lessons&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,6 +52,10 @@
       <updated>1667401557244</updated>
       <workItem from="1667401558601" duration="6032000" />
       <workItem from="1667758293945" duration="1052000" />
+      <workItem from="1667842996393" duration="1606000" />
+      <workItem from="1668018386062" duration="6350000" />
+      <workItem from="1668159439862" duration="254000" />
+      <workItem from="1668160390050" duration="3475000" />
     </task>
     <task id="LOCAL-00001" summary="JSHW2">
       <created>1667759090318</created>
@@ -56,7 +64,21 @@
       <option name="project" value="LOCAL" />
       <updated>1667759090318</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="JSHW2">
+      <created>1667843227410</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667843227410</updated>
+    </task>
+    <task id="LOCAL-00003" summary="JSHW2">
+      <created>1667843235813</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667843235813</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
