@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90ac26cb-4abb-4a58-9e3c-1588a9516f28" name="Changes" comment="JSHW3">
+    <list default="true" id="90ac26cb-4abb-4a58-9e3c-1588a9516f28" name="Changes" comment="JSHW4">
+      <change afterPath="$PROJECT_DIR$/Lesson5HW/Lesson5HW.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5HW/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,9 +14,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -32,16 +34,16 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/ruden/HTML_Lessons/Lesson3HW/Style.css",
-    "list.type.of.created.stylesheet": "CSS"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ruden/HTML_Lessons/Lesson3HW/Style.css&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -57,7 +59,12 @@
       <workItem from="1668159439862" duration="254000" />
       <workItem from="1668160390050" duration="3718000" />
       <workItem from="1668351424944" duration="8327000" />
-      <workItem from="1668442346613" duration="5668000" />
+      <workItem from="1668442346613" duration="10829000" />
+      <workItem from="1668619734674" duration="3055000" />
+      <workItem from="1668671294885" duration="624000" />
+      <workItem from="1668709729985" duration="9258000" />
+      <workItem from="1668724399762" duration="322000" />
+      <workItem from="1668795705720" duration="4248000" />
     </task>
     <task id="LOCAL-00001" summary="JSHW2">
       <created>1667759090318</created>
@@ -87,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668174774137</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="JSHW4">
+      <created>1668448912963</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668448912963</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +138,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="JSHW2" />
     <MESSAGE value="JSHW3" />
-    <option name="LAST_COMMIT_MESSAGE" value="JSHW3" />
+    <MESSAGE value="JSHW4" />
+    <option name="LAST_COMMIT_MESSAGE" value="JSHW4" />
   </component>
 </project>
