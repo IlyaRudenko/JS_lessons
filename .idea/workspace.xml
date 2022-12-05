@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90ac26cb-4abb-4a58-9e3c-1588a9516f28" name="Changes" comment="JSHW4">
-      <change afterPath="$PROJECT_DIR$/Lesson5HW/Lesson5HW.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson5HW/main.js" afterDir="false" />
+    <list default="true" id="90ac26cb-4abb-4a58-9e3c-1588a9516f28" name="Changes" comment="JSHW5">
+      <change afterPath="$PROJECT_DIR$/Lesson6HW/Lesson6HW.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson6HW/mainjs6.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson5HW/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson5HW/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,8 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/ruden/HTML_Lessons/Lesson3HW/Style.css&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -64,7 +66,18 @@
       <workItem from="1668671294885" duration="624000" />
       <workItem from="1668709729985" duration="9258000" />
       <workItem from="1668724399762" duration="322000" />
-      <workItem from="1668795705720" duration="4248000" />
+      <workItem from="1668795705720" duration="5230000" />
+      <workItem from="1668958941206" duration="2828000" />
+      <workItem from="1669065715768" duration="300000" />
+      <workItem from="1669143967004" duration="3077000" />
+      <workItem from="1669544044557" duration="596000" />
+      <workItem from="1669551128346" duration="518000" />
+      <workItem from="1669566874840" duration="5038000" />
+      <workItem from="1669747275898" duration="2001000" />
+      <workItem from="1669834366701" duration="4878000" />
+      <workItem from="1670091995987" duration="599000" />
+      <workItem from="1670231908005" duration="6162000" />
+      <workItem from="1670238155629" duration="3167000" />
     </task>
     <task id="LOCAL-00001" summary="JSHW2">
       <created>1667759090318</created>
@@ -101,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668448912963</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="JSHW5">
+      <created>1668800202651</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668800202651</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +159,7 @@
     <MESSAGE value="JSHW2" />
     <MESSAGE value="JSHW3" />
     <MESSAGE value="JSHW4" />
-    <option name="LAST_COMMIT_MESSAGE" value="JSHW4" />
+    <MESSAGE value="JSHW5" />
+    <option name="LAST_COMMIT_MESSAGE" value="JSHW5" />
   </component>
 </project>
