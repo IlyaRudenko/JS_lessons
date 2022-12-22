@@ -1,13 +1,13 @@
 // - створити функцію яка обчислює та повертає площу прямокутника зі сторонами а і б
 
-// function pram(a, b) {return a * b}
-// console.log(pram(1, 1))
+// let pram = (a, b)=>a*b
+// console.log(pram(2,3))
 
 // - створити функцію яка обчислює та повертає площу кола з радіусом r
 
 // function PR(r) {
-//     const P = 3.14
-//     return P * (r*r)
+//     const Pi = 3.14
+//     return Pi * (r*r)
 // }
 // console.log(PR(4))
 
@@ -21,27 +21,27 @@
 
 // - створити функцію яка приймає масив та виводить кожен його елемент
 
-// function filter(users) {
-//     let allUsers = []
-//     for (const user of users){
-//         allUsers.push(user)
-//     }
-//     return allUsers
-// }
-// let users = [
-//         {name: 'vasya', age: 31, status: false},
-//         {name: 'petya', age: 30, status: true},
-//         {name: 'kolya', age: 29, status: true},
-//         {name: 'olya', age: 28, status: false},
-//         {name: 'max', age: 30, status: true},
-//         {name: 'anya', age: 31, status: false},
-//         {name: 'oleg', age: 28, status: false},
-//         {name: 'andrey', age: 29, status: true},
-//         {name: 'masha', age: 30, status: true},
-//         {name: 'olya', age: 31, status: false},
-//         {name: 'max', age: 31, status: true}
-//     ];
-// console.log(filter(users))
+function filter(users) {
+    let allUsers = []
+    for (const user of users){
+        allUsers.push(user)
+    }
+    return allUsers
+}
+let users = [
+        {name: 'vasya', age: 31, status: false},
+        {name: 'petya', age: 30, status: true},
+        {name: 'kolya', age: 29, status: true},
+        {name: 'olya', age: 28, status: false},
+        {name: 'max', age: 30, status: true},
+        {name: 'anya', age: 31, status: false},
+        {name: 'oleg', age: 28, status: false},
+        {name: 'andrey', age: 29, status: true},
+        {name: 'masha', age: 30, status: true},
+        {name: 'olya', age: 31, status: false},
+        {name: 'max', age: 31, status: true}
+    ];
+console.log(filter(users))
 
 // - створити функцію яка створює параграф з текстом. Текст задати через аргумент
 
@@ -72,9 +72,8 @@
 //             document.write(`<li>${uli}</li>`)}
 //     document.write(`</ul>`)
 // }
-// let lilu = ulli(`Lorem ipsum dolor.`, 10)
-// document.write(lilu)
-// так і не зрозумів, як заретьорнити функцію, щоб спрацював document.write(lilu)  !!!!!!!!!!!!!!!!!
+// ulli(`Lorem ipsum dolor.`, 10)
+
 
 
 // - створити функцію яка приймає масив примітивних елементів (числа,стрінги,булеві), та будує для них список
